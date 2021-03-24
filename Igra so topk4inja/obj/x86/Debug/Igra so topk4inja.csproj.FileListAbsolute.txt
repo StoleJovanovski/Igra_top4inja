@@ -1,0 +1,15 @@
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\Igra_so_topk4inja.Properties.Resources.resources
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\Igra_so_topk4inja.Form1.resources
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\bin\Debug\Igra so topk4inja.exe
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\bin\Debug\Igra so topk4inja.pdb
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\bin\Debug\2D Grafika.dll
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\bin\Debug\Podatocne strukture.dll
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\bin\Debug\2D Grafika.pdb
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\bin\Debug\Podatocne strukture.pdb
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\Igra so topk4inja.exe
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\Igra so topk4inja.pdb
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\Interop.WMPLib.dll
+D:\Dropbox\Programi\Projects C#\Igra so topk4inja\Igra so topk4inja\obj\x86\Debug\Igra so topk4inja.csproj.ResolveComReference.cache

@@ -1,0 +1,12 @@
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\bin\Debug\2D Grafika.dll
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\bin\Debug\2D Grafika.pdb
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\bin\Debug\Podatocne strukture.dll
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\bin\Debug\Podatocne strukture.pdb
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\2D Grafika.dll
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\2D Grafika.pdb
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\_2D_Grafika.Ureducaci.Slozen.resources
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\_2D_Grafika.Ureducaci.KreiranjeNovEl.resources
+D:\Dropbox\Programi\Projects C#\! BIBLIOTEKE\2D Grafika\2D Grafika\obj\Debug\_2D_Grafika.Ureducaci.HomKoord.resources
